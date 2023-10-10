@@ -15,4 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# Free Odoo opensource repo.  Build a nasa copy website global.
+# Nasa copy website by Odoo
+1. www.nasa.org clone in www.nasacopy.com
+2. www.nasacopy.cn in China
+3. Free Opensource by Odoo
